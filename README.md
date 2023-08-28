@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+![Hi there](https://cdn.dribbble.com/userupload/9343924/file/original-74077e3841ee5c88cad36ed52ce72a4e.jpg?resize=752x)
+
+- 👯 I’m looking to collaborate on web3.
+- 📫 How to reach me: lmeng007@gmail.com
+
 <!--
 **merlin-li/merlin-li** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
